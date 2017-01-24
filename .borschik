@@ -1,0 +1,13 @@
+{
+    "paths" : {
+        "./" : "/"
+    },
+    "freeze_paths" : {
+        "*/**": "static/_",
+        "node_modules/**": ":base64:",
+        "node_modules/**/*.svg": ":encodeURIComponent:",
+        "*.blocks/**": ":base64:",
+        "*.blocks/**/*.svg": ":encodeURIComponent:"
+    },
+    "freeze_nesting_level" : 2
+}

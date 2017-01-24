@@ -55,5 +55,8 @@
     "start": "enb server",
     "build": "enb make"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "svg-icon": "^0.8.1"
+  }
 }
