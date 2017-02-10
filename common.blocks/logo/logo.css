@@ -1,0 +1,8 @@
+.logo {
+    display: inline-block;
+    height: 111px;
+    width: 165px;
+    cursor: pointer;
+    background: url('http://www.mediabusiness.pro/images/media-business-logo_s.png') no-repeat;
+}
+

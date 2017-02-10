@@ -1,0 +1,8 @@
+.icon__title {
+    font: 300 16px Roboto, Sans-serif;
+    color: #666;
+    text-transform: uppercase;
+    float: right;
+    display: inline-block;
+    margin: 0;
+}

@@ -10,6 +10,55 @@ module.exports = {
     scripts: [{ elem: 'js', url: 'index.min.js' }],
     mods: { theme: 'islands' },
     content: [
-        { block: 'icon', mods: { map: true }}
+        {
+            block: 'card',
+            content: [
+                {
+                    block: 'logo',
+                    
+                },
+                {
+                    block: 'icon', 
+                    mods: { map: true },
+                    content: [
+                        {
+                            elem: 'title' 
+                        }
+                    ]
+                },
+                {
+                    elem: 'header'
+                },
+                {
+                    block: 'contacts',
+                    content: [
+                        {
+                            elem: 'site'                      
+                        },
+                        {
+                            elem: 'slink'
+                        },
+                        {
+                            elem: 'mail'
+                        },
+                        {
+                            elem: 'mlink'
+                        },
+                        {
+                            elem: 'phone'
+                        },
+                        {
+                            elem: 'number'
+                        },
+                        {
+                            elem: 'addres'
+                        },
+                        {
+                            elem: 'adr'
+                        }
+                    ]
+                },
+            ]
+        },
     ]
 };

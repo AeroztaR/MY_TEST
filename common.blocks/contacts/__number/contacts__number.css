@@ -1,0 +1,6 @@
+.contacts__number {
+    font: 400 16px Roboto, Sans-serif;
+    color: #333;
+    display: inline-block;
+    padding-right: 475px;  
+}

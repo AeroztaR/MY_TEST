@@ -47,6 +47,7 @@
     "postcss-simple-vars": "^3.0.0",
     "postcss-url": "^5.1.2",
     "rebem-css": "^0.2.0",
+    "svg-icon": "^0.8.1",
     "through2-filter": "^2.0.0",
     "ym": "^0.1.2"
   },
