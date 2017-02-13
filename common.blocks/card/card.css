@@ -1,6 +1,16 @@
 .card {
-    max-width: 699px;
+    max-width: 695px;
     border: 1px solid #E4E4E4;
     border-radius: 2px;
-    padding: 20px
+    padding: 20px;
+    width: 100%;
+    font: 300 16px Roboto, Sans-serif;
+    color: #666;
+    margin-top: 5px;
 }
+
+a {
+    text-decoration: none;   
+}
+
+
